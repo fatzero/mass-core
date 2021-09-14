@@ -219,7 +219,7 @@ func TestMASSIP2CalcBlockSubsidy(t *testing.T) {
 	}
 }
 
-func ExampleCalcBlockSubsidy(t *testing.T) {
+func TestExampleCalcBlockSubsidy(t *testing.T) {
 	for i := uint64(1404798); i <= 1404802; i++ {
 		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
 		require.NoError(t, err)

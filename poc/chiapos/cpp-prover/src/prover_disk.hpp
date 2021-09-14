@@ -68,7 +68,8 @@ public:
         // x bytes   - memo
 
         SafeRead(disk_file, (uint8_t*)&header, sizeof(header));
-        if (memcmp(header.magic, "Proof of Space Plot", sizeof(header.magic)) != 0)
+        if (memcmp(header.magic, "Proof of Space Plot", sizeof(header.magic)) != 0
+            && memcmp(header.magic, "Plot Space of Proof", sizeof(header.magic)) != 0) 
             throw std::invalid_argument("Invalid plot header magic");
 
         uint16_t fmt_desc_len = Util::TwoBytesToInt(header.fmt_desc_len);
