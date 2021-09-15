@@ -3,7 +3,7 @@ package pocutil_test
 import (
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/pocutil"
+	"github.com/fatzero/mass-core/poc/pocutil"
 )
 
 func TestP(t *testing.T) {

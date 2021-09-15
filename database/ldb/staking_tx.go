@@ -4,11 +4,11 @@ import (
 	"crypto/sha256"
 	"encoding/binary"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/database/storage"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/wire"
 )
 
 var (

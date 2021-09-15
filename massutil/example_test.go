@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/fatzero/mass-core/massutil"
 )
 
 func ExampleAmount() {

@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"sort"
 
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/storage"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/database/storage"
 	"golang.org/x/crypto/ripemd160"
 )
 

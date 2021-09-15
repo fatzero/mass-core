@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/massnetorg/mass-core/blockchain/orphanpool"
+	"github.com/fatzero/mass-core/blockchain/orphanpool"
 )
 
 type testEntry struct {

@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/wire"
 )
 
 var (

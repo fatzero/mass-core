@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"math/big"
 
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/poc/pocutil"
+	"github.com/fatzero/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/poc/pocutil"
 )
 
 func ChiaPlotSize(k int) uint64 {

@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/interfaces"
+	"github.com/fatzero/mass-core/database/storage"
+	"github.com/fatzero/mass-core/interfaces"
 )
 
 var (

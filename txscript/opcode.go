@@ -14,7 +14,7 @@ import (
 	"hash"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/wire"
 	"golang.org/x/crypto/ripemd160"
 )
 

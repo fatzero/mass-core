@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/massnetorg/mass-core/consensus"
+	"github.com/fatzero/mass-core/consensus"
 )
 
 var (

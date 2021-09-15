@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/poc/chiapos"
 	"github.com/stretchr/testify/require"
 )
 

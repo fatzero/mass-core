@@ -8,14 +8,14 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/ldb"
-	_ "github.com/massnetorg/mass-core/database/ldb"
-	_ "github.com/massnetorg/mass-core/database/memdb"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/database/ldb"
+	_ "github.com/fatzero/mass-core/database/ldb"
+	_ "github.com/fatzero/mass-core/database/memdb"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/wire"
 )
 
 // testDbRoot is the root directory used to create all test databases.

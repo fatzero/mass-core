@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/database/storage"
+	"github.com/fatzero/mass-core/logging"
 	gowire "github.com/massnetorg/tendermint/go-wire"
 )
 

@@ -6,11 +6,11 @@ package ldb
 // 	"encoding/binary"
 // 	"fmt"
 
-// 	"github.com/massnetorg/mass-core/database"
-// 	"github.com/massnetorg/mass-core/database/storage"
-// 	"github.com/massnetorg/mass-core/errors"
-// 	"github.com/massnetorg/mass-core/interfaces"
-// 	"github.com/massnetorg/mass-core/wire"
+// 	"github.com/fatzero/mass-core/database"
+// 	"github.com/fatzero/mass-core/database/storage"
+// 	"github.com/fatzero/mass-core/errors"
+// 	"github.com/fatzero/mass-core/interfaces"
+// 	"github.com/fatzero/mass-core/wire"
 // )
 
 // var (

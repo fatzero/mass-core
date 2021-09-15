@@ -5,9 +5,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/fatzero/mass-core/interfaces"
+	"github.com/fatzero/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/pocec"
 )
 
 const (

@@ -8,8 +8,8 @@ import (
 	"strconv"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/massnetorg/mass-core/consensus"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/fatzero/mass-core/consensus"
+	wirepb "github.com/fatzero/mass-core/wire/pb"
 )
 
 const (

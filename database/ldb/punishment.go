@@ -5,10 +5,10 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/database/storage"
+	"github.com/fatzero/mass-core/interfaces"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/wire"
 )
 
 var (

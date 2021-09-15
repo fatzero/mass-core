@@ -11,19 +11,19 @@ import (
 	"strings"
 	"syscall"
 
-	// _ "github.com/massnetorg/mass-core/database/storage/ldbstorage"
+	// _ "github.com/fatzero/mass-core/database/storage/ldbstorage"
 
-	"github.com/massnetorg/mass-core/blockchain/state"
-	"github.com/massnetorg/mass-core/config"
-	_ "github.com/massnetorg/mass-core/database/ldb"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/blockchain/state"
+	"github.com/fatzero/mass-core/config"
+	_ "github.com/fatzero/mass-core/database/ldb"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/wire"
 
-	"github.com/massnetorg/mass-core/blockchain"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/trie/massdb"
-	"github.com/massnetorg/mass-core/trie/rawdb"
+	"github.com/fatzero/mass-core/blockchain"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/trie/massdb"
+	"github.com/fatzero/mass-core/trie/rawdb"
 )
 
 func MakeChain(chainstoreDir string, readonly bool, chainParams *config.Params) (*blockchain.Blockchain, func(), error) {

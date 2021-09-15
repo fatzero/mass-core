@@ -3,9 +3,9 @@ package blockchain
 import (
 	"time"
 
-	"github.com/massnetorg/mass-core/blockchain/orphanpool"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/blockchain/orphanpool"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/wire"
 )
 
 const (

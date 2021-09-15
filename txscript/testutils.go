@@ -5,9 +5,9 @@ import (
 	"errors"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
 )
 
 type MockWallet struct {

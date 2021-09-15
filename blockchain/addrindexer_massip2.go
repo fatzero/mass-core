@@ -1,10 +1,10 @@
 package blockchain
 
 import (
-	"github.com/massnetorg/mass-core/blockchain/state"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/blockchain/state"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/txscript"
+	"github.com/fatzero/mass-core/wire"
 )
 
 //

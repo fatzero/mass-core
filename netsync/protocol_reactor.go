@@ -3,10 +3,10 @@ package netsync
 import (
 	"time"
 
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/p2p"
-	"github.com/massnetorg/mass-core/p2p/connection"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/p2p"
+	"github.com/fatzero/mass-core/p2p/connection"
 )
 
 const (

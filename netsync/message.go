@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/wire"
 	gowire "github.com/massnetorg/tendermint/go-wire"
 )
 

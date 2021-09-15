@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/logging"
 )
 
 // Node represents a host on the network.

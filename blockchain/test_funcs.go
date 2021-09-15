@@ -1,6 +1,6 @@
 package blockchain
 
-import "github.com/massnetorg/mass-core/massutil"
+import "github.com/fatzero/mass-core/massutil"
 
 func (chain *Blockchain) TstgetPrevNodeFromBlock(block *massutil.Block) (*BlockNode, error) {
 	return chain.getPrevNodeFromBlock(block)

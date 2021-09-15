@@ -9,13 +9,13 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/pocec"
-	"github.com/massnetorg/mass-core/trie/common"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/interfaces"
+	"github.com/fatzero/mass-core/poc"
+	"github.com/fatzero/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/pocec"
+	"github.com/fatzero/mass-core/trie/common"
+	wirepb "github.com/fatzero/mass-core/wire/pb"
 )
 
 // BlockVersion is the current latest supported block version.

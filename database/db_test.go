@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/massnetorg/mass-core/database"
+	"github.com/fatzero/mass-core/database"
 )
 
 var (

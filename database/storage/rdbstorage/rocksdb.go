@@ -6,8 +6,8 @@ package rdbstorage
 import (
 	"runtime"
 
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/database/storage"
+	"github.com/fatzero/mass-core/logging"
 	"github.com/tecbot/gorocksdb"
 )
 

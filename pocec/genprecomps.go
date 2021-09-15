@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/fatzero/mass-core/pocec"
 )
 
 func main() {

@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/p2p/upnp"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/p2p/upnp"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"
 )
 

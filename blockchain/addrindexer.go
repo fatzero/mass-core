@@ -6,13 +6,13 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/massnetorg/mass-core/blockchain/state"
-	"github.com/massnetorg/mass-core/consensus/forks"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/blockchain/state"
+	"github.com/fatzero/mass-core/consensus/forks"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/txscript"
+	"github.com/fatzero/mass-core/wire"
 	"golang.org/x/crypto/ripemd160"
 )
 

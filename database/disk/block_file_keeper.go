@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/logging"
 )
 
 type BlockFileKeeper struct {

@@ -13,7 +13,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/poc/chiapos"
 	"github.com/stretchr/testify/require"
 )
 

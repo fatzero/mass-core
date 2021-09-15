@@ -4,13 +4,13 @@ import (
 	"crypto/sha256"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/txscript"
+	"github.com/fatzero/mass-core/wire"
 )
 
 // TxData contains contextual information about transactions such as which block

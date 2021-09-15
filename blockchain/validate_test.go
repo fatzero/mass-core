@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/massutil"
 	"github.com/stretchr/testify/assert"
 )
 

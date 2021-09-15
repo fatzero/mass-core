@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc"
+	"github.com/fatzero/mass-core/poc"
 )
 
 // TestBlockHeader tests the BlockHeader API.

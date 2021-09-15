@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/wire"
 )
 
 // Registered by txscript

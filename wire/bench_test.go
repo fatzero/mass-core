@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/poc"
+	"github.com/fatzero/mass-core/interfaces"
+	"github.com/fatzero/mass-core/poc"
 )
 
 var tstGenesisCoinbaseTx = MsgTx{

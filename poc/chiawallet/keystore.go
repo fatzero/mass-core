@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/massnetorg/mass-core/poc/chiapos"
+	"github.com/fatzero/mass-core/poc/chiapos"
 )
 
 var ErrMinerKeyNotExists = errors.New("miner key not exists")

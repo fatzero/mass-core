@@ -7,14 +7,14 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/disk"
-	"github.com/massnetorg/mass-core/database/storage"
-	_ "github.com/massnetorg/mass-core/database/storage/ldbstorage"
-	_ "github.com/massnetorg/mass-core/database/storage/rdbstorage"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/database"
+	"github.com/fatzero/mass-core/database/disk"
+	"github.com/fatzero/mass-core/database/storage"
+	_ "github.com/fatzero/mass-core/database/storage/ldbstorage"
+	_ "github.com/fatzero/mass-core/database/storage/rdbstorage"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/wire"
 )
 
 const (

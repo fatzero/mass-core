@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/massutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

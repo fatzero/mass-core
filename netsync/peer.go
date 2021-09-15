@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/ccache"
-	"github.com/massnetorg/mass-core/p2p/trust"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/massutil/ccache"
+	"github.com/fatzero/mass-core/p2p/trust"
+	"github.com/fatzero/mass-core/wire"
 	set "gopkg.in/fatih/set.v0"
 )
 

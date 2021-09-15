@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
-	"github.com/massnetorg/mass-core/trie/rawdb"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/trie/common"
+	"github.com/fatzero/mass-core/trie/massdb"
+	"github.com/fatzero/mass-core/trie/rawdb"
 )
 
 // committer is a type used for the trie Commit operation. A committer has some

@@ -3,9 +3,9 @@ package trie
 import (
 	"errors"
 
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
-	"github.com/massnetorg/mass-core/trie/rawdb"
+	"github.com/fatzero/mass-core/trie/common"
+	"github.com/fatzero/mass-core/trie/massdb"
+	"github.com/fatzero/mass-core/trie/rawdb"
 )
 
 // Database is an intermediate write layer between the trie data structures and

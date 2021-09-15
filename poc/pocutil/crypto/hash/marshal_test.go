@@ -14,8 +14,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/pocutil/crypto/hash"
-	"github.com/massnetorg/mass-core/poc/pocutil/crypto/sha256"
+	"github.com/fatzero/mass-core/poc/pocutil/crypto/hash"
+	"github.com/fatzero/mass-core/poc/pocutil/crypto/sha256"
 )
 
 func fromHex(s string) []byte {

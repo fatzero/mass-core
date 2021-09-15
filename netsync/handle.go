@@ -3,14 +3,14 @@ package netsync
 import (
 	"reflect"
 
-	"github.com/massnetorg/mass-core/blockchain"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/p2p"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/blockchain"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/errors"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/p2p"
+	"github.com/fatzero/mass-core/wire"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"
 )
 

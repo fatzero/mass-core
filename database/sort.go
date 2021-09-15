@@ -6,11 +6,11 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/consensus/forks"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/consensus/forks"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/massutil/safetype"
 )
 
 type StakingTxInfo struct {

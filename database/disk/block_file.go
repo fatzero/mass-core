@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/logging"
 )
 
 const (

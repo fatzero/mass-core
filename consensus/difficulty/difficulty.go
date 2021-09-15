@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/config"
+	"github.com/fatzero/mass-core/poc"
+	"github.com/fatzero/mass-core/wire"
 )
 
 const (

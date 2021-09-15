@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/fatzero/mass-core/logging"
 )
 
 var lan4, lan6, special4, special6 Netlist

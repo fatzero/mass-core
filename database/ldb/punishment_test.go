@@ -1,13 +1,13 @@
 package ldb_test
 
 import (
-	"github.com/massnetorg/mass-core/poc"
+	"github.com/fatzero/mass-core/poc"
 	"math/rand"
 	"testing"
 
-	"github.com/massnetorg/mass-core/pocec"
-	"github.com/massnetorg/mass-core/wire"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/fatzero/mass-core/pocec"
+	"github.com/fatzero/mass-core/wire"
+	wirepb "github.com/fatzero/mass-core/wire/pb"
 	"github.com/stretchr/testify/assert"
 )
 

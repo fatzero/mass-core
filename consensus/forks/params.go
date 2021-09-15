@@ -4,10 +4,10 @@ import (
 	"encoding/hex"
 	"math/big"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/consensus"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/massutil/safetype"
+	"github.com/fatzero/mass-core/wire"
 )
 
 const (

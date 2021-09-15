@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/pocutil"
+	"github.com/fatzero/mass-core/poc"
+	"github.com/fatzero/mass-core/poc/pocutil"
 )
 
 func init() {

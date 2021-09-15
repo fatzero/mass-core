@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/fatzero/mass-core/wire"
 	"github.com/stretchr/testify/assert"
 )
 
